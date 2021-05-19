@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1621435047 source:c:\users\g5\desktop\primerparciallaboratrio\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+
+1621435047 c:\users\g5\desktop\primerparciallaboratrio\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1621427269 c:\users\g5\desktop\primerparciallaboratrio\color.h
+
+1621427267 c:\users\g5\desktop\primerparciallaboratrio\tipo.h
+
+1621430887 source:c:\users\g5\desktop\primerparciallaboratrio\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621435619 source:c:\users\g5\desktop\primerparciallaboratrio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1621427269 c:\users\g5\desktop\primerparciallaboratrio\fecha.h
+
+1621427952 c:\users\g5\desktop\primerparciallaboratrio\servicio.h
+
+1621428122 source:c:\users\g5\desktop\primerparciallaboratrio\rodado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rodado.h"
+
+1621428118 c:\users\g5\desktop\primerparciallaboratrio\rodado.h
+
+1621427952 source:c:\users\g5\desktop\primerparciallaboratrio\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621430908 source:c:\users\g5\desktop\primerparciallaboratrio\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1621435586 c:\users\g5\desktop\primerparciallaboratrio\trabajo.h
+	"fecha.h"
+	"bicicleta.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1621435536 source:c:\users\g5\desktop\primerparciallaboratrio\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
